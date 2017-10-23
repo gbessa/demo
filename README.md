@@ -1,7 +1,7 @@
-## Try it
+## GBESSA's JSON SERVER
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/gbessa/json-server](https://my-json-server.typicode.com/gbessa/json-server)
 
-## Use your own data
+## To change data
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Change the `db.json` file.
